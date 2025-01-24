@@ -4,6 +4,7 @@ pkgs.mkShell {
     nixfmt-rfc-style
     zigpkgs.master
     qemu
+    llvmPackages_19.bintools
   ];
 
   shellHook = '''';
