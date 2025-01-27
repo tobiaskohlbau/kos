@@ -1,5 +1,5 @@
 {
-  description = "deployment";
+  description = "kos dev setup";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-24.11";
